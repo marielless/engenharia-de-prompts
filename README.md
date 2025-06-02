@@ -33,6 +33,7 @@ A **Engenharia de Prompts** é a prática de projetar e escrever comandos (promp
 - A engenharia de prompts é uma **habilidade essencial** para quem quer dominar ferramentas de IA no dia a dia.
 
 ---
+<img src="https://github.com/user-attachments/assets/7142e19e-731b-45bf-8047-5467e921330a" width="900"/>
 
 
 ## Técnicas de Engenharia de Prompt
