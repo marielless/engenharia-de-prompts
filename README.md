@@ -33,3 +33,32 @@ A **Engenharia de Prompts** é a prática de projetar e escrever comandos (promp
 - A engenharia de prompts é uma **habilidade essencial** para quem quer dominar ferramentas de IA no dia a dia.
 
 ---
+
+
+## Técnicas de Engenharia de Prompt
+
+### 🔹 Instruções Claras
+Organiza o prompt para que as orientações sejam **objetivas, detalhadas e colocadas no início**, proporcionando maior clareza.
+
+### 🔹 Preparar a Saída
+Define palavras ou frases no **final do prompt** que ajudam a moldar o **formato da resposta**, tornando-a mais estruturada e clara.
+
+### 🔹 Repetir Instruções no Final
+Reforça as orientações no **final do prompt** para garantir que o modelo compreenda e siga a tarefa proposta **sem desvios**.
+
+### 🔹 Guardrails
+Técnicas para **limitar respostas**, evitando conteúdos **prejudiciais, irrelevantes ou incorretos**, alinhando o modelo a **padrões éticos**.
+
+### 🔹 Solicitação de Cadeia de Pensamento
+Instrução para que o modelo responda **passo a passo**, explicando o raciocínio até chegar à **conclusão final**.
+
+### 🔹 Especificar Estrutura de Saída
+Indica o **formato exato da resposta**, como `JSON`, listas ou tabelas, ajudando a obter **resultados organizados e úteis**.
+
+### 🔹 Dividir a Tarefa
+Quebra uma tarefa complexa em **várias etapas menores**, facilitando para o modelo responder de forma **lógica e organizada**.
+
+### 🔹 Adicionar Sintaxe Clara
+Organiza o prompt com formatações como **listas, títulos ou tabelas**, tornando as instruções **mais visuais e compreensíveis**.
+
+
